@@ -58,7 +58,7 @@ The exact files included in a submission may vary depending on whether datasets 
 ### 1. Clone or download the project
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/ritikraj77320/Real-Estate-Investment-Advisor.git>
 cd Real_Estate_Project
 ```
 
