@@ -1,0 +1,64 @@
+
+REAL ESTATE INVESTMENT ADVISOR
+FEATURE ENGINEERING REPORT
+==========================================
+
+Total Records: 250000
+
+Total Features: 39
+
+REFERENCE YEAR: 2026
+
+NEW ENGINEERED FEATURES
+------------------------------------------
+
+Property_Age_2026
+Floor_Ratio
+Amenities_Count
+Has_Gym
+Has_Pool
+Has_Garden
+Has_Clubhouse
+Has_Playground
+Has_Parking
+Has_Security
+Is_Ready_to_Move
+Transport_Accessibility_Score
+
+CLASSIFICATION TARGET
+------------------------------------------
+
+Target: Good_Investment
+
+Comparison: City + Property_Type + BHK
+
+Comparison Groups: 630
+
+Not Good Investment: 124833
+
+Good Investment: 125167
+
+REGRESSION TARGET
+------------------------------------------
+
+Target: Future_Price_5Y
+
+Annual Appreciation Rate: 8%
+
+Forecast Duration: 5 Years
+
+Appreciation Multiplier:
+1.4693
+
+Average Current Price:
+254.59 Lakhs
+
+Average Projected Price:
+374.07 Lakhs
+
+IMPORTANT:
+Future price is an assumption-based
+projection, not an observed market price.
+
+==========================================
+FEATURE ENGINEERING COMPLETED

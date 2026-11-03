@@ -1,0 +1,631 @@
+City,Property_Type,BHK,Peer_Median_Price_per_SqFt
+Ahmedabad,Apartment,1,0.09660544217687074
+Ahmedabad,Apartment,2,0.09502328911410016
+Ahmedabad,Apartment,3,0.0917367420240862
+Ahmedabad,Apartment,4,0.09072365008659844
+Ahmedabad,Apartment,5,0.09397554527428949
+Ahmedabad,Independent House,1,0.0911461402474956
+Ahmedabad,Independent House,2,0.09271894676588437
+Ahmedabad,Independent House,3,0.09287338660110632
+Ahmedabad,Independent House,4,0.09240545294635004
+Ahmedabad,Independent House,5,0.08920294708640322
+Ahmedabad,Villa,1,0.0939117960731162
+Ahmedabad,Villa,2,0.09065330815730901
+Ahmedabad,Villa,3,0.09361655889864358
+Ahmedabad,Villa,4,0.08376284422523633
+Ahmedabad,Villa,5,0.09285850318378741
+Amritsar,Apartment,1,0.09003284072249589
+Amritsar,Apartment,2,0.09659532595325954
+Amritsar,Apartment,3,0.09106139431221219
+Amritsar,Apartment,4,0.0917983193277311
+Amritsar,Apartment,5,0.0866457114048355
+Amritsar,Independent House,1,0.0855377996312231
+Amritsar,Independent House,2,0.09353855248699841
+Amritsar,Independent House,3,0.09520231213872832
+Amritsar,Independent House,4,0.09308527131782945
+Amritsar,Independent House,5,0.09424059324361439
+Amritsar,Villa,1,0.0952953239238636
+Amritsar,Villa,2,0.08724064407295054
+Amritsar,Villa,3,0.10185766721044046
+Amritsar,Villa,4,0.0895422514719148
+Amritsar,Villa,5,0.09036014405762305
+Bangalore,Apartment,1,0.10487087848411428
+Bangalore,Apartment,2,0.08844116025115724
+Bangalore,Apartment,3,0.09462720960553046
+Bangalore,Apartment,4,0.09990674413063426
+Bangalore,Apartment,5,0.09540841815879156
+Bangalore,Independent House,1,0.09540957089780347
+Bangalore,Independent House,2,0.09823098075160404
+Bangalore,Independent House,3,0.0979511358765538
+Bangalore,Independent House,4,0.09731247123791993
+Bangalore,Independent House,5,0.08864675568719949
+Bangalore,Villa,1,0.09710423116615068
+Bangalore,Villa,2,0.08347929473257996
+Bangalore,Villa,3,0.09088785046728971
+Bangalore,Villa,4,0.08637005081011877
+Bangalore,Villa,5,0.09059768064228367
+Bhopal,Apartment,1,0.09474245720147143
+Bhopal,Apartment,2,0.09623003194888179
+Bhopal,Apartment,3,0.09403128430296377
+Bhopal,Apartment,4,0.09479041916167665
+Bhopal,Apartment,5,0.0954520037278658
+Bhopal,Independent House,1,0.09243732590529248
+Bhopal,Independent House,2,0.09683215749457946
+Bhopal,Independent House,3,0.08527102256079694
+Bhopal,Independent House,4,0.09081829028540439
+Bhopal,Independent House,5,0.091706131512166
+Bhopal,Villa,1,0.08408630559225011
+Bhopal,Villa,2,0.09014279766752524
+Bhopal,Villa,3,0.09460210649502634
+Bhopal,Villa,4,0.0910210913234578
+Bhopal,Villa,5,0.09258762665396265
+Bhubaneswar,Apartment,1,0.08807565295706994
+Bhubaneswar,Apartment,2,0.09527047913446678
+Bhubaneswar,Apartment,3,0.0881428255582578
+Bhubaneswar,Apartment,4,0.08608307586680398
+Bhubaneswar,Apartment,5,0.08748991354466858
+Bhubaneswar,Independent House,1,0.09206492587395522
+Bhubaneswar,Independent House,2,0.09587012987012987
+Bhubaneswar,Independent House,3,0.09277088502894955
+Bhubaneswar,Independent House,4,0.08589915860987098
+Bhubaneswar,Independent House,5,0.10148402238397963
+Bhubaneswar,Villa,1,0.09268482490272373
+Bhubaneswar,Villa,2,0.09594766619519095
+Bhubaneswar,Villa,3,0.09207407407407407
+Bhubaneswar,Villa,4,0.09008814354513181
+Bhubaneswar,Villa,5,0.09268718555785735
+Bilaspur,Apartment,1,0.09159254916073604
+Bilaspur,Apartment,2,0.09289368104312938
+Bilaspur,Apartment,3,0.09878429263044647
+Bilaspur,Apartment,4,0.08786902389312942
+Bilaspur,Apartment,5,0.09176339285714286
+Bilaspur,Independent House,1,0.08951963241436926
+Bilaspur,Independent House,2,0.09355953115360888
+Bilaspur,Independent House,3,0.09247854077253219
+Bilaspur,Independent House,4,0.09486897075579187
+Bilaspur,Independent House,5,0.0919946038564721
+Bilaspur,Villa,1,0.07797564687975647
+Bilaspur,Villa,2,0.09135483107104475
+Bilaspur,Villa,3,0.08992098331870062
+Bilaspur,Villa,4,0.08593090656155808
+Bilaspur,Villa,5,0.09335935757305375
+Chennai,Apartment,1,0.0873277443018077
+Chennai,Apartment,2,0.08728469816060651
+Chennai,Apartment,3,0.09356060606060607
+Chennai,Apartment,4,0.09395445059211804
+Chennai,Apartment,5,0.09490111984751012
+Chennai,Independent House,1,0.09973992768666817
+Chennai,Independent House,2,0.09905272808388503
+Chennai,Independent House,3,0.09630246913580247
+Chennai,Independent House,4,0.09056307579802954
+Chennai,Independent House,5,0.09734272154920043
+Chennai,Villa,1,0.08958330345675192
+Chennai,Villa,2,0.09413172611733495
+Chennai,Villa,3,0.09492450638792102
+Chennai,Villa,4,0.08982052720134605
+Chennai,Villa,5,0.09378002591031706
+Coimbatore,Apartment,1,0.09706869059639636
+Coimbatore,Apartment,2,0.09187749947379499
+Coimbatore,Apartment,3,0.09385247629083246
+Coimbatore,Apartment,4,0.09503432766248474
+Coimbatore,Apartment,5,0.08985557240513148
+Coimbatore,Independent House,1,0.09406244380088927
+Coimbatore,Independent House,2,0.09947857142857143
+Coimbatore,Independent House,3,0.09026288305249003
+Coimbatore,Independent House,4,0.08976085442303228
+Coimbatore,Independent House,5,0.09613745713310203
+Coimbatore,Villa,1,0.09128852801370957
+Coimbatore,Villa,2,0.08914471309996391
+Coimbatore,Villa,3,0.08603615520282187
+Coimbatore,Villa,4,0.09555647129177003
+Coimbatore,Villa,5,0.09023770101739415
+Cuttack,Apartment,1,0.08769330453563715
+Cuttack,Apartment,2,0.09829862040566238
+Cuttack,Apartment,3,0.09020237062734894
+Cuttack,Apartment,4,0.08931809523809524
+Cuttack,Apartment,5,0.08989757207890743
+Cuttack,Independent House,1,0.09408193854609044
+Cuttack,Independent House,2,0.09483144547566258
+Cuttack,Independent House,3,0.08476923076923076
+Cuttack,Independent House,4,0.09476386978450252
+Cuttack,Independent House,5,0.09001958719995935
+Cuttack,Villa,1,0.09087141211039332
+Cuttack,Villa,2,0.09620389574253571
+Cuttack,Villa,3,0.09435007232899359
+Cuttack,Villa,4,0.09562331675567338
+Cuttack,Villa,5,0.08706104730689213
+Dehradun,Apartment,1,0.09242384105960265
+Dehradun,Apartment,2,0.09919675090252708
+Dehradun,Apartment,3,0.09315394848166056
+Dehradun,Apartment,4,0.08416516408222141
+Dehradun,Apartment,5,0.09083200811865491
+Dehradun,Independent House,1,0.09518370715445844
+Dehradun,Independent House,2,0.09248921042385028
+Dehradun,Independent House,3,0.09184941520467836
+Dehradun,Independent House,4,0.09063883299798793
+Dehradun,Independent House,5,0.09795038167938931
+Dehradun,Villa,1,0.08914974336085696
+Dehradun,Villa,2,0.09718033644273624
+Dehradun,Villa,3,0.09830856875713335
+Dehradun,Villa,4,0.09260399592277146
+Dehradun,Villa,5,0.09538860103626942
+Durgapur,Apartment,1,0.0958004318154694
+Durgapur,Apartment,2,0.08320465503916208
+Durgapur,Apartment,3,0.08732131629543924
+Durgapur,Apartment,4,0.0884353298611111
+Durgapur,Apartment,5,0.09502890026869329
+Durgapur,Independent House,1,0.09534963534963535
+Durgapur,Independent House,2,0.09245151320726613
+Durgapur,Independent House,3,0.09343226988261968
+Durgapur,Independent House,4,0.09266108096020384
+Durgapur,Independent House,5,0.08917479029698482
+Durgapur,Villa,1,0.0952189893632451
+Durgapur,Villa,2,0.09327842720510096
+Durgapur,Villa,3,0.08361059992638939
+Durgapur,Villa,4,0.08741007194244604
+Durgapur,Villa,5,0.09715014415613218
+Dwarka,Apartment,1,0.08898920284861016
+Dwarka,Apartment,2,0.0919071747061208
+Dwarka,Apartment,3,0.09411099324144069
+Dwarka,Apartment,4,0.09277522944692798
+Dwarka,Apartment,5,0.08957110765356754
+Dwarka,Independent House,1,0.09276933701657458
+Dwarka,Independent House,2,0.09415266106442577
+Dwarka,Independent House,3,0.09274570446735395
+Dwarka,Independent House,4,0.09367478636591142
+Dwarka,Independent House,5,0.0951266545344969
+Dwarka,Villa,1,0.09320603257432222
+Dwarka,Villa,2,0.09174963243016172
+Dwarka,Villa,3,0.09203143055234574
+Dwarka,Villa,4,0.09143552130471796
+Dwarka,Villa,5,0.09458696942677709
+Faridabad,Apartment,1,0.09082590977276925
+Faridabad,Apartment,2,0.08829002514668902
+Faridabad,Apartment,3,0.09045014245014246
+Faridabad,Apartment,4,0.08867551210428305
+Faridabad,Apartment,5,0.09923387210562748
+Faridabad,Independent House,1,0.09163235535424749
+Faridabad,Independent House,2,0.09104743307363974
+Faridabad,Independent House,3,0.09149185667752442
+Faridabad,Independent House,4,0.09602407002188183
+Faridabad,Independent House,5,0.09779418783582695
+Faridabad,Villa,1,0.09476827423640928
+Faridabad,Villa,2,0.09532286754655481
+Faridabad,Villa,3,0.09015331212033556
+Faridabad,Villa,4,0.08927628314681073
+Faridabad,Villa,5,0.08258826879271071
+Gaya,Apartment,1,0.08860557941842893
+Gaya,Apartment,2,0.090009922925438
+Gaya,Apartment,3,0.09139169472502806
+Gaya,Apartment,4,0.0935627302948937
+Gaya,Apartment,5,0.09828734976445307
+Gaya,Independent House,1,0.09388192874729652
+Gaya,Independent House,2,0.09674800073335729
+Gaya,Independent House,3,0.0870307988450433
+Gaya,Independent House,4,0.0890924676914229
+Gaya,Independent House,5,0.09178812922614575
+Gaya,Villa,1,0.09162441942543123
+Gaya,Villa,2,0.09377508269018743
+Gaya,Villa,3,0.09012032085561497
+Gaya,Villa,4,0.09273893521488134
+Gaya,Villa,5,0.09491510277033065
+Gurgaon,Apartment,1,0.09015221301746185
+Gurgaon,Apartment,2,0.08880633706637531
+Gurgaon,Apartment,3,0.09440362490284337
+Gurgaon,Apartment,4,0.09722115798300393
+Gurgaon,Apartment,5,0.09441920644048303
+Gurgaon,Independent House,1,0.0921746073995209
+Gurgaon,Independent House,2,0.09430232558139535
+Gurgaon,Independent House,3,0.09591967996352951
+Gurgaon,Independent House,4,0.08334546557476494
+Gurgaon,Independent House,5,0.09209428038065826
+Gurgaon,Villa,1,0.08763174473655155
+Gurgaon,Villa,2,0.09610334827313471
+Gurgaon,Villa,3,0.08681585677749361
+Gurgaon,Villa,4,0.08624176276771005
+Gurgaon,Villa,5,0.09589388986673372
+Guwahati,Apartment,1,0.09619807397828598
+Guwahati,Apartment,2,0.0932669983416252
+Guwahati,Apartment,3,0.09060032232070911
+Guwahati,Apartment,4,0.09669630322882546
+Guwahati,Apartment,5,0.09476447876447877
+Guwahati,Independent House,1,0.09909385113268608
+Guwahati,Independent House,2,0.0914903671392221
+Guwahati,Independent House,3,0.08911349134001822
+Guwahati,Independent House,4,0.09139330173666675
+Guwahati,Independent House,5,0.09517972350230415
+Guwahati,Villa,1,0.08337648327939591
+Guwahati,Villa,2,0.09098266242472752
+Guwahati,Villa,3,0.08976688394253007
+Guwahati,Villa,4,0.09568543689320388
+Guwahati,Villa,5,0.092923331337108
+Haridwar,Apartment,1,0.09201336690897055
+Haridwar,Apartment,2,0.0941645885286783
+Haridwar,Apartment,3,0.09244725738396624
+Haridwar,Apartment,4,0.09651238458962227
+Haridwar,Apartment,5,0.0843313700922114
+Haridwar,Independent House,1,0.0942101226993865
+Haridwar,Independent House,2,0.0906016500622665
+Haridwar,Independent House,3,0.09007108403148008
+Haridwar,Independent House,4,0.08783208020050126
+Haridwar,Independent House,5,0.09118818681318681
+Haridwar,Villa,1,0.10098824159663905
+Haridwar,Villa,2,0.0910553772070626
+Haridwar,Villa,3,0.09139650952705723
+Haridwar,Villa,4,0.0877101515339219
+Haridwar,Villa,5,0.08082678805914832
+Hyderabad,Apartment,1,0.0944331641285956
+Hyderabad,Apartment,2,0.0967001675041876
+Hyderabad,Apartment,3,0.0913611615245009
+Hyderabad,Apartment,4,0.09114994757077943
+Hyderabad,Apartment,5,0.09493786921980037
+Hyderabad,Independent House,1,0.09604419135091427
+Hyderabad,Independent House,2,0.09674983863167977
+Hyderabad,Independent House,3,0.09409384298674958
+Hyderabad,Independent House,4,0.09395116918844566
+Hyderabad,Independent House,5,0.08392413793103448
+Hyderabad,Villa,1,0.09111736032995875
+Hyderabad,Villa,2,0.0894172767203514
+Hyderabad,Villa,3,0.09881741034765947
+Hyderabad,Villa,4,0.09758305647840532
+Hyderabad,Villa,5,0.09070237715255705
+Indore,Apartment,1,0.08943608166834059
+Indore,Apartment,2,0.09903094462540717
+Indore,Apartment,3,0.08685934224972552
+Indore,Apartment,4,0.08628143432169616
+Indore,Apartment,5,0.09837059115747641
+Indore,Independent House,1,0.09179765523230568
+Indore,Independent House,2,0.09196958174904943
+Indore,Independent House,3,0.09765851341724056
+Indore,Independent House,4,0.08087725485546336
+Indore,Independent House,5,0.10283397138213893
+Indore,Villa,1,0.08628356254092992
+Indore,Villa,2,0.09318369453044376
+Indore,Villa,3,0.09071356104159621
+Indore,Villa,4,0.09606359649122807
+Indore,Villa,5,0.0921883965025909
+Jaipur,Apartment,1,0.0947065095350774
+Jaipur,Apartment,2,0.0820756677325302
+Jaipur,Apartment,3,0.08445884640311081
+Jaipur,Apartment,4,0.09247728496318808
+Jaipur,Apartment,5,0.09029111140858852
+Jaipur,Independent House,1,0.08834584584584584
+Jaipur,Independent House,2,0.08941204819277108
+Jaipur,Independent House,3,0.09107706691004291
+Jaipur,Independent House,4,0.09431391386791203
+Jaipur,Independent House,5,0.09010644104803493
+Jaipur,Villa,1,0.08477654352880393
+Jaipur,Villa,2,0.0907111209570226
+Jaipur,Villa,3,0.09432420985443304
+Jaipur,Villa,4,0.09220051413881748
+Jaipur,Villa,5,0.09983324490081505
+Jamshedpur,Apartment,1,0.0929290780141844
+Jamshedpur,Apartment,2,0.08599091659785302
+Jamshedpur,Apartment,3,0.09652053036783576
+Jamshedpur,Apartment,4,0.09067600082323027
+Jamshedpur,Apartment,5,0.09322317452196588
+Jamshedpur,Independent House,1,0.09115384615384615
+Jamshedpur,Independent House,2,0.09826078194276501
+Jamshedpur,Independent House,3,0.09307790526217069
+Jamshedpur,Independent House,4,0.09368862266482195
+Jamshedpur,Independent House,5,0.09494896114655849
+Jamshedpur,Villa,1,0.08670190455379995
+Jamshedpur,Villa,2,0.0932360097323601
+Jamshedpur,Villa,3,0.08375
+Jamshedpur,Villa,4,0.08484393063583816
+Jamshedpur,Villa,5,0.08406598024795126
+Jodhpur,Apartment,1,0.10120227862422088
+Jodhpur,Apartment,2,0.09035520473606315
+Jodhpur,Apartment,3,0.09391481091984773
+Jodhpur,Apartment,4,0.09189258838335684
+Jodhpur,Apartment,5,0.0861014788373279
+Jodhpur,Independent House,1,0.0927052341597796
+Jodhpur,Independent House,2,0.08940380761523045
+Jodhpur,Independent House,3,0.09594032302217356
+Jodhpur,Independent House,4,0.09738253178551685
+Jodhpur,Independent House,5,0.087678243966685
+Jodhpur,Villa,1,0.08955518945634267
+Jodhpur,Villa,2,0.09500208333333333
+Jodhpur,Villa,3,0.09404652289798886
+Jodhpur,Villa,4,0.09382715698735382
+Jodhpur,Villa,5,0.09136360129043482
+Kochi,Apartment,1,0.10035082963575923
+Kochi,Apartment,2,0.08873762382505203
+Kochi,Apartment,3,0.09657844921400843
+Kochi,Apartment,4,0.08820242450826626
+Kochi,Apartment,5,0.08851243781094527
+Kochi,Independent House,1,0.08805982001058761
+Kochi,Independent House,2,0.09105246602482761
+Kochi,Independent House,3,0.09309680823001847
+Kochi,Independent House,4,0.09340232451790306
+Kochi,Independent House,5,0.10131091546317672
+Kochi,Villa,1,0.08855601469237832
+Kochi,Villa,2,0.0853947952233832
+Kochi,Villa,3,0.09187989993810605
+Kochi,Villa,4,0.09907624237781328
+Kochi,Villa,5,0.09211620016963529
+Kolkata,Apartment,1,0.09013189324744629
+Kolkata,Apartment,2,0.09104684645143019
+Kolkata,Apartment,3,0.09463256907701352
+Kolkata,Apartment,4,0.09047988825935305
+Kolkata,Apartment,5,0.0987111016950879
+Kolkata,Independent House,1,0.09488657420365115
+Kolkata,Independent House,2,0.08619667534548367
+Kolkata,Independent House,3,0.09085992540406133
+Kolkata,Independent House,4,0.09281522263097476
+Kolkata,Independent House,5,0.09721990054267787
+Kolkata,Villa,1,0.08899166578945238
+Kolkata,Villa,2,0.08675352988421903
+Kolkata,Villa,3,0.09135621890547263
+Kolkata,Villa,4,0.09502242152466368
+Kolkata,Villa,5,0.09732925857028966
+Lucknow,Apartment,1,0.09331986322660864
+Lucknow,Apartment,2,0.09412469559094129
+Lucknow,Apartment,3,0.10139254856850716
+Lucknow,Apartment,4,0.09321466337680648
+Lucknow,Apartment,5,0.09190374775795337
+Lucknow,Independent House,1,0.09681148748159057
+Lucknow,Independent House,2,0.09425282631038027
+Lucknow,Independent House,3,0.09581965781106233
+Lucknow,Independent House,4,0.09262603246197049
+Lucknow,Independent House,5,0.10014229861904471
+Lucknow,Villa,1,0.0969137255766084
+Lucknow,Villa,2,0.09032967032967033
+Lucknow,Villa,3,0.09552625211710622
+Lucknow,Villa,4,0.09222384998535013
+Lucknow,Villa,5,0.09293029693833833
+Ludhiana,Apartment,1,0.09095494523676664
+Ludhiana,Apartment,2,0.08772956290179063
+Ludhiana,Apartment,3,0.08722099447513812
+Ludhiana,Apartment,4,0.09176671823539845
+Ludhiana,Apartment,5,0.09460776426440877
+Ludhiana,Independent House,1,0.0920107599193006
+Ludhiana,Independent House,2,0.08654103436024971
+Ludhiana,Independent House,3,0.08981591856087931
+Ludhiana,Independent House,4,0.1020168947686548
+Ludhiana,Independent House,5,0.09372571471238375
+Ludhiana,Villa,1,0.0896463283475653
+Ludhiana,Villa,2,0.09104365215035382
+Ludhiana,Villa,3,0.09391671356218345
+Ludhiana,Villa,4,0.09684926970903507
+Ludhiana,Villa,5,0.08933027170462085
+Mangalore,Apartment,1,0.0981941359841403
+Mangalore,Apartment,2,0.0983107490265896
+Mangalore,Apartment,3,0.09818561210698933
+Mangalore,Apartment,4,0.09938178386031148
+Mangalore,Apartment,5,0.09799785867237687
+Mangalore,Independent House,1,0.08863253129972642
+Mangalore,Independent House,2,0.0981723934915281
+Mangalore,Independent House,3,0.09184541319990419
+Mangalore,Independent House,4,0.09511849641042187
+Mangalore,Independent House,5,0.09924628450106157
+Mangalore,Villa,1,0.09215079870936915
+Mangalore,Villa,2,0.091998361998362
+Mangalore,Villa,3,0.08408734868264894
+Mangalore,Villa,4,0.09379737287033424
+Mangalore,Villa,5,0.0992059202059202
+Mumbai,Apartment,1,0.09823781873264327
+Mumbai,Apartment,2,0.0894348296971339
+Mumbai,Apartment,3,0.09653679181795419
+Mumbai,Apartment,4,0.10415215745647237
+Mumbai,Apartment,5,0.0943494540413183
+Mumbai,Independent House,1,0.09540616531097157
+Mumbai,Independent House,2,0.0942042755344418
+Mumbai,Independent House,3,0.09680304853590052
+Mumbai,Independent House,4,0.09412067192320878
+Mumbai,Independent House,5,0.084273691913648
+Mumbai,Villa,1,0.09380109823062843
+Mumbai,Villa,2,0.09500487487812805
+Mumbai,Villa,3,0.09311517268577058
+Mumbai,Villa,4,0.08866117149391786
+Mumbai,Villa,5,0.08822485207100592
+Mysore,Apartment,1,0.09172286617492097
+Mysore,Apartment,2,0.09709076494074095
+Mysore,Apartment,3,0.09340793792897642
+Mysore,Apartment,4,0.08332530120481928
+Mysore,Apartment,5,0.08990773958520432
+Mysore,Independent House,1,0.09861311839911062
+Mysore,Independent House,2,0.08704647049784542
+Mysore,Independent House,3,0.08890181228022721
+Mysore,Independent House,4,0.09289122408406703
+Mysore,Independent House,5,0.09859126984126984
+Mysore,Villa,1,0.10184188393608073
+Mysore,Villa,2,0.09308082491546053
+Mysore,Villa,3,0.09137098700106763
+Mysore,Villa,4,0.08920478965547271
+Mysore,Villa,5,0.09647441860465115
+Nagpur,Apartment,1,0.0920486977842117
+Nagpur,Apartment,2,0.08620393417087963
+Nagpur,Apartment,3,0.09091336730693846
+Nagpur,Apartment,4,0.10147197362223269
+Nagpur,Apartment,5,0.08650041390728477
+Nagpur,Independent House,1,0.09362481680508061
+Nagpur,Independent House,2,0.0966730733101942
+Nagpur,Independent House,3,0.09416881998277347
+Nagpur,Independent House,4,0.09918690005646527
+Nagpur,Independent House,5,0.09238922367252589
+Nagpur,Villa,1,0.09033939198841762
+Nagpur,Villa,2,0.08968756687352879
+Nagpur,Villa,3,0.09236398122080201
+Nagpur,Villa,4,0.0846541737649063
+Nagpur,Villa,5,0.09394659865981494
+New Delhi,Apartment,1,0.08800739247311828
+New Delhi,Apartment,2,0.09365123839371331
+New Delhi,Apartment,3,0.08855653986451277
+New Delhi,Apartment,4,0.0904814889743071
+New Delhi,Apartment,5,0.088050752301819
+New Delhi,Independent House,1,0.09535353535353534
+New Delhi,Independent House,2,0.08960784313725491
+New Delhi,Independent House,3,0.08776122044318599
+New Delhi,Independent House,4,0.09168175320147873
+New Delhi,Independent House,5,0.08565038795070744
+New Delhi,Villa,1,0.09542247386759582
+New Delhi,Villa,2,0.09577543424317617
+New Delhi,Villa,3,0.08646825396825397
+New Delhi,Villa,4,0.09291246922671775
+New Delhi,Villa,5,0.09928831527903811
+Noida,Apartment,1,0.10137228260869566
+Noida,Apartment,2,0.09456765512085721
+Noida,Apartment,3,0.09698332340678976
+Noida,Apartment,4,0.09276575304764041
+Noida,Apartment,5,0.09382789317507419
+Noida,Independent House,1,0.10098001642485628
+Noida,Independent House,2,0.09671896889885122
+Noida,Independent House,3,0.09252952755905512
+Noida,Independent House,4,0.0867697139343303
+Noida,Independent House,5,0.09156572159516316
+Noida,Villa,1,0.09206201550387598
+Noida,Villa,2,0.09567194341529135
+Noida,Villa,3,0.08906648575305291
+Noida,Villa,4,0.08929406474820144
+Noida,Villa,5,0.09602398293206536
+Patna,Apartment,1,0.09088110481068228
+Patna,Apartment,2,0.09914397689768976
+Patna,Apartment,3,0.09050898902638337
+Patna,Apartment,4,0.10085010513667769
+Patna,Apartment,5,0.08713913392141139
+Patna,Independent House,1,0.09246829780999793
+Patna,Independent House,2,0.08905588714053174
+Patna,Independent House,3,0.08056447688564478
+Patna,Independent House,4,0.09051270207852194
+Patna,Independent House,5,0.09218589156120627
+Patna,Villa,1,0.08931933869081254
+Patna,Villa,2,0.09274247795921722
+Patna,Villa,3,0.09196947133283694
+Patna,Villa,4,0.09156070234758046
+Patna,Villa,5,0.09609777015437392
+Pune,Apartment,1,0.09920006600993042
+Pune,Apartment,2,0.08936236391912908
+Pune,Apartment,3,0.0988277340957827
+Pune,Apartment,4,0.08830168840574089
+Pune,Apartment,5,0.09367484880825329
+Pune,Independent House,1,0.0985375620745631
+Pune,Independent House,2,0.09094259390503188
+Pune,Independent House,3,0.10089196284038819
+Pune,Independent House,4,0.10274499039253362
+Pune,Independent House,5,0.10156788599240754
+Pune,Villa,1,0.09715926981305262
+Pune,Villa,2,0.088986954345522
+Pune,Villa,3,0.09640525559433381
+Pune,Villa,4,0.09502158273381295
+Pune,Villa,5,0.09027798369162342
+Raipur,Apartment,1,0.0949600709849157
+Raipur,Apartment,2,0.09138526912181302
+Raipur,Apartment,3,0.09055991804179336
+Raipur,Apartment,4,0.08313655023921601
+Raipur,Apartment,5,0.097998420844848
+Raipur,Independent House,1,0.09727104722792608
+Raipur,Independent House,2,0.09155956126051196
+Raipur,Independent House,3,0.09051640667025283
+Raipur,Independent House,4,0.0928212010878713
+Raipur,Independent House,5,0.08531511021585528
+Raipur,Villa,1,0.09951341496042307
+Raipur,Villa,2,0.09279402058557533
+Raipur,Villa,3,0.08939637880874515
+Raipur,Villa,4,0.09051888319246587
+Raipur,Villa,5,0.08844080502533132
+Ranchi,Apartment,1,0.09678063283074963
+Ranchi,Apartment,2,0.09450515463917526
+Ranchi,Apartment,3,0.0962046485260771
+Ranchi,Apartment,4,0.09005789356490759
+Ranchi,Apartment,5,0.09552865612648222
+Ranchi,Independent House,1,0.08603053435114504
+Ranchi,Independent House,2,0.09356601754948121
+Ranchi,Independent House,3,0.09433439829605964
+Ranchi,Independent House,4,0.08991132794687642
+Ranchi,Independent House,5,0.09865114967257665
+Ranchi,Villa,1,0.09709596304708513
+Ranchi,Villa,2,0.09488134574947432
+Ranchi,Villa,3,0.09488745980707396
+Ranchi,Villa,4,0.09219653179190752
+Ranchi,Villa,5,0.09351414592639865
+Silchar,Apartment,1,0.08873519658929417
+Silchar,Apartment,2,0.09241813722531714
+Silchar,Apartment,3,0.0986493860845839
+Silchar,Apartment,4,0.08472072072072072
+Silchar,Apartment,5,0.09647309702870664
+Silchar,Independent House,1,0.093996138996139
+Silchar,Independent House,2,0.08952089153577653
+Silchar,Independent House,3,0.09443192627597805
+Silchar,Independent House,4,0.09296208993964411
+Silchar,Independent House,5,0.08523517382413089
+Silchar,Villa,1,0.0930529440870856
+Silchar,Villa,2,0.0957216815075585
+Silchar,Villa,3,0.09338104976141787
+Silchar,Villa,4,0.09469186524239934
+Silchar,Villa,5,0.09189625850340136
+Surat,Apartment,1,0.09473157637872132
+Surat,Apartment,2,0.10099127006477049
+Surat,Apartment,3,0.0927665544332211
+Surat,Apartment,4,0.09094641592061438
+Surat,Apartment,5,0.08707060390791366
+Surat,Independent House,1,0.09279203241053344
+Surat,Independent House,2,0.09913861156257256
+Surat,Independent House,3,0.09180992313067785
+Surat,Independent House,4,0.09550275800153875
+Surat,Independent House,5,0.10091749028899605
+Surat,Villa,1,0.1038939967550027
+Surat,Villa,2,0.0996835446947435
+Surat,Villa,3,0.08630725524973239
+Surat,Villa,4,0.09224992501567443
+Surat,Villa,5,0.09177100647212946
+Trivandrum,Apartment,1,0.08947590870667793
+Trivandrum,Apartment,2,0.09319184491978609
+Trivandrum,Apartment,3,0.0904760285937602
+Trivandrum,Apartment,4,0.09180114358322745
+Trivandrum,Apartment,5,0.09414486921529175
+Trivandrum,Independent House,1,0.0910756543560722
+Trivandrum,Independent House,2,0.0932760989010989
+Trivandrum,Independent House,3,0.0876923076923077
+Trivandrum,Independent House,4,0.09980900975711023
+Trivandrum,Independent House,5,0.09651589502880308
+Trivandrum,Villa,1,0.08562302839116719
+Trivandrum,Villa,2,0.08642182581322141
+Trivandrum,Villa,3,0.0925683932735056
+Trivandrum,Villa,4,0.08627311522048364
+Trivandrum,Villa,5,0.08053032049804011
+Vijayawada,Apartment,1,0.0971757141709919
+Vijayawada,Apartment,2,0.0895659106867123
+Vijayawada,Apartment,3,0.08662105668458844
+Vijayawada,Apartment,4,0.09263786764705884
+Vijayawada,Apartment,5,0.09511557023114046
+Vijayawada,Independent House,1,0.09775708779826937
+Vijayawada,Independent House,2,0.09358529964501984
+Vijayawada,Independent House,3,0.0990351525096525
+Vijayawada,Independent House,4,0.09113887897179579
+Vijayawada,Independent House,5,0.09118806875631952
+Vijayawada,Villa,1,0.09141161732519829
+Vijayawada,Villa,2,0.08987138263665594
+Vijayawada,Villa,3,0.0939033087530155
+Vijayawada,Villa,4,0.09776437371663244
+Vijayawada,Villa,5,0.09056108597285067
+Vishakhapatnam,Apartment,1,0.09331709297604547
+Vishakhapatnam,Apartment,2,0.09236906710310966
+Vishakhapatnam,Apartment,3,0.0914538186408584
+Vishakhapatnam,Apartment,4,0.09799978527616908
+Vishakhapatnam,Apartment,5,0.09007337278106509
+Vishakhapatnam,Independent House,1,0.09577424612876935
+Vishakhapatnam,Independent House,2,0.09370952530650738
+Vishakhapatnam,Independent House,3,0.10208083195135434
+Vishakhapatnam,Independent House,4,0.08412277642134636
+Vishakhapatnam,Independent House,5,0.09193780889621087
+Vishakhapatnam,Villa,1,0.09417570973318615
+Vishakhapatnam,Villa,2,0.09412885022337174
+Vishakhapatnam,Villa,3,0.09193117459411278
+Vishakhapatnam,Villa,4,0.09124893541722762
+Vishakhapatnam,Villa,5,0.09123498614105328
+Warangal,Apartment,1,0.09131028938906752
+Warangal,Apartment,2,0.08570637119113572
+Warangal,Apartment,3,0.09044502081769162
+Warangal,Apartment,4,0.1023088619122728
+Warangal,Apartment,5,0.08443472627146095
+Warangal,Independent House,1,0.09549277321873366
+Warangal,Independent House,2,0.0929480103897706
+Warangal,Independent House,3,0.09838629040831513
+Warangal,Independent House,4,0.0873085903885209
+Warangal,Independent House,5,0.089935351972497
+Warangal,Villa,1,0.09493577962944039
+Warangal,Villa,2,0.09361640798226163
+Warangal,Villa,3,0.09405775016606104
+Warangal,Villa,4,0.09753342194780322
+Warangal,Villa,5,0.08987633402093925

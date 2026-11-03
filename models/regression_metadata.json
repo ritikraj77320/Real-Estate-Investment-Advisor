@@ -1,0 +1,41 @@
+{
+    "best_model": "Linear Regression",
+    "selection_metric": "RMSE",
+    "best_rmse": 0.0028861359892607954,
+    "target": "Future_Price_5Y",
+    "features": [
+        "BHK",
+        "Size_in_SqFt",
+        "Price_in_Lakhs",
+        "Price_per_SqFt",
+        "Property_Age_2026",
+        "Nearby_Schools",
+        "Nearby_Hospitals",
+        "Amenities_Count",
+        "Has_Gym",
+        "Has_Pool",
+        "Has_Garden",
+        "Has_Clubhouse",
+        "Has_Playground",
+        "Has_Parking",
+        "Has_Security",
+        "Is_Ready_to_Move",
+        "Transport_Accessibility_Score",
+        "Floor_Info_Valid",
+        "Floor_Ratio",
+        "State",
+        "City",
+        "Property_Type",
+        "Furnished_Status",
+        "Facing",
+        "Owner_Type"
+    ],
+    "forecast_years": 5,
+    "annual_appreciation_rate": 0.08,
+    "target_type": "Assumption-based projection",
+    "training_strategy": {
+        "Linear Regression": "Full training data",
+        "Random Forest Regressor": "Maximum 40000 sampled records",
+        "XGBoost Regressor": "Maximum 80000 sampled records"
+    }
+}

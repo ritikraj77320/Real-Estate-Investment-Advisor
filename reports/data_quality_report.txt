@@ -1,0 +1,43 @@
+
+REAL ESTATE INVESTMENT ADVISOR
+DATA QUALITY REPORT
+========================================
+
+Total Records: 250000
+
+Total Features: 24
+
+Missing Values: 0
+
+Duplicate Records: 0
+
+Unique Properties: 250000
+
+Inconsistent Floor Records: 116304
+
+Unique States: 20
+
+Unique Cities: 42
+
+Unique Localities: 500
+
+Property Types:
+Property_Type
+Villa                83744
+Independent House    83300
+Apartment            82956
+
+Furnishing Distribution:
+Furnished_Status
+Unfurnished       83408
+Semi-furnished    83374
+Furnished         83218
+
+Average Property Price:
+254.59 Lakhs
+
+Average Property Size:
+2749.81 SqFt
+
+========================================
+PREPROCESSING COMPLETED

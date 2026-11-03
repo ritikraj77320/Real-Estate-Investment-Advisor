@@ -1,0 +1,4 @@
+,Feature,Lower_Bound,Upper_Bound,Outlier_Count,Outlier_Percentage
+0,Price_in_Lakhs,-233.945,743.375,0,0.0
+1,Size_in_SqFt,-1753.5,7250.5,0,0.0
+2,Price_per_SqFt,-0.115,0.325,20020,8.01

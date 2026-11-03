@@ -1,0 +1,30 @@
+{
+    "best_model": "XGBoost",
+    "selection_metric": "F1_Score",
+    "best_f1_score": 0.512200354990345,
+    "features": [
+        "BHK",
+        "Property_Age_2026",
+        "Nearby_Schools",
+        "Nearby_Hospitals",
+        "Amenities_Count",
+        "Has_Gym",
+        "Has_Pool",
+        "Has_Garden",
+        "Has_Clubhouse",
+        "Has_Playground",
+        "Has_Parking",
+        "Has_Security",
+        "Is_Ready_to_Move",
+        "Transport_Accessibility_Score",
+        "Floor_Info_Valid",
+        "Floor_Ratio",
+        "State",
+        "City",
+        "Property_Type",
+        "Furnished_Status",
+        "Facing",
+        "Owner_Type"
+    ],
+    "reference_target": "Good_Investment"
+}
